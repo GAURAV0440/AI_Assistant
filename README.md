@@ -1,4 +1,4 @@
-# 🧠 Gemini Multi-Personality Chatbot
+# 🧠 Multi-Personality Chatbot
 
 An AI-powered chatbot built with Streamlit and Gemini API that talks like:
 
